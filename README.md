@@ -1,2 +1,1 @@
-# .github
-About Resourse Center of Robotics
+Ресурсный центр робототехники ДГТУ
