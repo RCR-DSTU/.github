@@ -1,6 +1,6 @@
 <br/>
    <p align="center">
-      <img src="../.images/RCR_mini.jpg">
+      <img src="../RCR_mini.jpg">
    </p>
 <br/>
 <h1><p align="center">Ресурсный Центр Робототехники ДГТУ</p></h1>
