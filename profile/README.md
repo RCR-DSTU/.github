@@ -1,5 +1,5 @@
    <p align="center">
-      <img src="https://github.com/RCR-DSTU/.github/RCR_mini.jpg">
+      <img src="https://github.com/RCR-DSTU/.github/blob/main/RCR_mini.jpg">
    </p>
 <h1><p align="center">Ресурсный Центр Робототехники ДГТУ</p></h1>
 <h3><p align="left">О нас</p></h3>
